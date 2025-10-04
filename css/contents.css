@@ -1,0 +1,21 @@
+h3
+{
+  text-align: center;
+  padding: 15px;
+  margin: 5px;
+}
+
+p
+{
+  text-aligh: center;
+  padding: 15px;
+  margin: 5px;
+]
+
+.frame1
+{
+  background-color: gray;
+  color: black;
+  border-style: dotted;
+  border-radius: 12px;
+}
