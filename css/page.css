@@ -25,22 +25,16 @@ a
   text-decoration: none;
   color: blue;
   font-size: 30px;
+  font-family: 'Jura', cursive;
   margin: 10px;
   padding: 10px;
   border-radius: 15px;
-  background-color: #333;
+  background-color: blue;
   transition: background-color 0.3s ease;
 }
+
 a:hover
 {
-  background-color: #555;
+  background-color: black;
   color: white;
-}
-
-nav ul
-{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 50px;
 }
