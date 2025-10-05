@@ -13,8 +13,34 @@ nav
   align-items: center;
   height: 50px;
   background-color: #333;
+  color: blue;
   border-radius: 10px;
   margin: 10px;
   padding: 0;
   list-style: none;
+}
+
+a
+{
+  text-decoration: none;
+  color: blue;
+  font-size: 30px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: #333;
+  transition: background-color 0.3s ease;
+}
+a:hover
+{
+  background-color: #555;
+  color: white;
+}
+
+nav ul
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
 }
